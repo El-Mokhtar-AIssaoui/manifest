@@ -35,7 +35,7 @@
   <project name="meta-rust"                path="sources/meta-rust"                remote="asus"        revision="refs/tags/pe100a-yocto-3.2-1.0.5"/>
   <project name="meta-timesys"             path="sources/meta-timesys"             remote="Timesys"     revision="00f81fbdf7fba2a09ff83d14fc3b040e9ae63b42"/>
   <project name="poky"                     path="sources/poky"                     remote="yocto"       revision="943ef2fad8428f002850e3655a3312e13d0dcb2c"/>
-  <project name="linux-imx"                path="linux-imx"                        remote="asus"        revision="refs/tags/yocto-sumo-imx_8m"/>
+  <project name="linux-imx"                path="linux-imx"                        remote="asus"        revision="refs/tags/pe100a-yocto-3.2-1.0.5"/>
   <project name="meta-virtualization"      path="sources/meta-virtualization"      remote="asus"        revision="refs/tags/pe100a-yocto-3.2-1.0.5"/>    
   <project name="meta-iotedge"             path="sources/meta-iotedge"             remote="asus"        revision="refs/tags/pe100a-yocto-3.2-1.0.5"/>
 
